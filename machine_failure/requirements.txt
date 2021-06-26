@@ -1,0 +1,18 @@
+
+# machine_failure/app.py: 5
+altair
+
+# machine_failure/app.py: 4
+matplotlib
+
+# machine_failure/app.py: 3
+numpy
+
+# machine_failure/app.py: 2
+pandas
+
+# machine_failure/app.py: 7
+pycaret
+
+# machine_failure/app.py: 1
+streamlit

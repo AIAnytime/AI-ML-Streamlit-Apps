@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+body {
+    color: #ffffff !important;
+    background-color: #232933;
+
+}
+
+#MainMenuButton{
+	background-color: #F08D2C;
+}
+
+.sidebar-collapse-control{
+	background-color: #F08D2C;
+}
+
+.stTextInput>label{
+	color: #F08D2C;
+	font-weight: 600;
+	font-size: 16px;
+}
+
+.stButton>button {
+    color: #ffffff;
+    border-radius: 50px;
+    padding: 10px 20px;
+    background-color: #F08D2C;
+    border: 2px solid #F08D2C;
+    font-weight: 600;
+}
+
+.stButton>button:hover {
+    color: #F08D2C;
+    border-radius: 50px;
+    padding: 10px 20px;
+    background-color: transparent;
+    border: 2px solid #F08D2C;
+    font-weight: 600;
+}
+
+.stSelectbox>label{
+	color:#F08D2C !important;
+	font-size: 16px;
+	font-weight: 600;
+}
+
+.stNumberInput>label{
+	color:#FA9D31 !important;
+	font-family: 'Montserrat', sans-serif; 
+	font-weight: 600;
+	font-size: 16px;
+}
+
+.stRadio>div>label>div{
+
+}
+
+.stRadio>label{
+	color:#FA9D31 !important;
+	font-family: 'Montserrat', sans-serif; 
+	font-weight: 600;
+	font-size: 16px;
+}
+
+.stRadio>div>label{
+	background-color: transparent !important;
+}
+
+.stRadio>div>label>div{
+	color:#ffffff !important;
+}
+
+.alert-success{
+	margin-top: 25px !important; 
+	background-color: #00db1d;
+	color:white;
+	border-radius: 15px;
+}
+
+.alert-success>div>p{
+	font-family: 'Montserrat', sans-serif; 
+	font-weight: 700;
+}
+
+.alert-warning{
+	margin-top: 25px !important; 
+	background-color: #eb2131;
+	border-color: #eb2131;
+	color:white;
+	border-radius: 15px;
+}
+
+.alert-warning>div>p{
+	font-family: 'Montserrat', sans-serif; 
+	font-weight: 700;
+}
+
+.alert-info{
+	margin-top: 25px !important; 
+	background-color: #00a0e0;
+	border-color: #00a0e0;
+	color:white;
+	border-radius: 15px;
+}
+
+.alert-info>div>p{
+	font-family: 'Montserrat', sans-serif; 
+	font-weight: 700;
+}
+
+.variable-row span .object-key, .variable-row span span{
+	color:#ffffff !important;
+}
+
+.variable-row span, .variable-value div{
+	color:#F08D2C !important;
+}

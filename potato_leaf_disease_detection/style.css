@@ -1,0 +1,26 @@
+body {
+    color: #fff !important;
+    background-color: #232933;
+}
+
+.stButton>button {
+    color: white;
+    border-radius: 10px;
+    background-color: #12aada;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 7px 15px;
+    border: none !important;
+}
+
+.stButton>button:hover,
+.stButton>button:active,
+.stButton>button:focus {
+    background-color: #0070ac;
+    color: White;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 7px 15px;
+    border-radius: 10px;
+    border: none !important;
+}
